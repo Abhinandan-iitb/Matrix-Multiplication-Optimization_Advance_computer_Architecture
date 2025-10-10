@@ -169,10 +169,10 @@ perf stat -e cache-misses,cache-references ./matrix_optimized
 
 ## 👨‍💻 Authors
 
-**Team:** THREE GENIUSES  
-**Course:** CS683 — Advanced Computer Architecture  
+**Team:** OneCpi
+**Course:** CS683 — Advanced Computer Architecture
 **Institution:** Indian Institute of Technology, Bombay  
-**Instructor:** CASPER Research Group — [https://casper-iitb.github.io/](https://casper-iitb.github.io/)
+**Instructor:** Prof. Biswabandan Panda
 
 ---
 
