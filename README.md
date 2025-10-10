@@ -1,4 +1,4 @@
-# 🚀 Matrix Multiplication Optimization — *The Rancho Way*
+# Matrix Multiplication Optimization — *The Rancho Way*
 ![C++](https://img.shields.io/badge/Language-C%2B%2B-blue)
 ![Architecture](https://img.shields.io/badge/Focus-Computer%20Architecture-orange)
 ![Optimization](https://img.shields.io/badge/Category-Performance%20Optimization-green)
