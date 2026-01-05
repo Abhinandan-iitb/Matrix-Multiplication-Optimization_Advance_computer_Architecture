@@ -182,6 +182,4 @@ perf stat -e cache-misses,cache-references ./matrix_optimized
 - [perf Wiki](https://perfwiki.github.io/main/)
 - [CASPER Group](https://casper-iitb.github.io/)
 
----
 
-> 📘 *This project demonstrates how a deep understanding of computer architecture enables smarter, faster, and more efficient software — especially in ML and HPC workloads.*
